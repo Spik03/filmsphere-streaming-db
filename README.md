@@ -52,7 +52,7 @@ filmsphere-streaming-db/
 
 ## 📄 Documentazione
 
-La relazione completa di progetto — comprensiva di analisi dei requisiti, ristrutturazione E-R, tavole dei volumi e degli accessi, calcoli costi-benefici delle ridondanze, dimostrazioni di normalizzazione BCNF e specifica dettagliata di trigger e procedure — è disponibile in italiano:
+La relazione completa di progetto è disponibile in italiano:
 
 - 📘 **[Relazione Completa di Progetto (PDF)](<Docs/Project report IT.pdf>)**
 - 📐 **[Diagrammi E-R Concettuale e Ristrutturato (PDF)](<Docs/ER diagrams IT.pdf>)**

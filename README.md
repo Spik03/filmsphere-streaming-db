@@ -52,7 +52,7 @@ filmsphere-streaming-db/
 
 ## 📄 Documentazione
 
-La relazione completa di progetto è disponibile in italiano:
+La documentazione completa del progetto è disponibile in italiano:
 
 - 📘 **[Relazione Completa di Progetto (PDF)](<Docs/Project report IT.pdf>)**
 - 📐 **[Diagrammi E-R Concettuale e Ristrutturato (PDF)](<Docs/ER diagrams IT.pdf>)**
